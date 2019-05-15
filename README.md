@@ -16,7 +16,8 @@ Given some coordinates we fetch the data of the current weather from the api. Us
 
 The application is ment to be mobile first, in this case mobile only. It's not responsive but it should look nice in devices of maxwidth of 640.
 
-##how to use
+## how to use
+
 run
 
 npm i
